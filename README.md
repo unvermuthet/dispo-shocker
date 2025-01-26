@@ -2,8 +2,6 @@
 
 ### Homemade electric shocker, made from a disposable camera.
 
-> **I (tinkertoe) will not take liability for any injuries!**
-
 ⚠ *This repository is mainly concerned with hardware. For examples on writing software for this, check out taetris-stun.*
 
 ## How does work?
@@ -23,13 +21,9 @@ Using a Wemos D1 mini enables me to electrocute myself (or friend who of course 
 
 > **Do not use this on people with any kind of heart condition or similar things!**
 
-> **Do not use this on old people!**
-
-> **Only shock people that have given consent!**
-
 > **Remember to remove to capacitor on the flash circut! Do not discharge it into your body or you'll die!**
 
-> **I (tinkertoe) will not take liability for any injuries!**
+> **I will not take liability for any injuries!**
 
 ## Parts list
 
